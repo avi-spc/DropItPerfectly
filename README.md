@@ -10,6 +10,8 @@ focus with addiction
 **Controls:**
 -Press Spacebar to boostup your spaceship and control its direction with mouse pointer.
 
+**Available on itch.io: ** [Drop It Perfectly !!!](https://avi-spc.itch.io/drop-it-perfectly-)
+
 ## Screenshots
 **Start Screen**
 ![](Assets/Screenshots/MainMenu.png)
