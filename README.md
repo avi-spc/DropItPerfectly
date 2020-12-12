@@ -7,5 +7,13 @@ focus with addiction
 -At right side how many hits you have done will be shown.
 -The hits will increase when you hit the boundary.
 
-Controls:
--Press Spacebar to boostup your spaceship and control its direction with mouse pointer. 
+**Controls:**
+-Press Spacebar to boostup your spaceship and control its direction with mouse pointer.
+
+## Screenshots
+**Start Screen**
+![](Assets/Screenshots/MainMenu.png)
+**Game Screen**
+![](Assets/Screenshots/Game.png)
+**Score**
+![](Assets/Screenshots/Score.png)
